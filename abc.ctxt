@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=abc
+comment1.params=
+comment1.target=abc()
+comment10.params=
+comment10.target=void\ invalid()
+comment11.params=
+comment11.target=void\ main()
+comment2.params=a\ b
+comment2.target=int\ hcf(int,\ int)
+comment3.params=
+comment3.target=void\ input()
+comment4.params=
+comment4.target=void\ menu()
+comment5.params=
+comment5.target=void\ compoundname()
+comment6.params=se\ e\ val\ s\ v\ sa
+comment6.target=void\ search(java.lang.String[],\ java.lang.String,\ int,\ java.lang.String,\ int[],\ java.lang.String[])
+comment7.params=
+comment7.target=void\ searchImp()
+comment8.params=
+comment8.target=void\ formula()
+comment9.params=name\ val\ symb
+comment9.target=void\ display(java.lang.String,\ int,\ java.lang.String)
+numComments=12
